@@ -4,3 +4,4 @@
 - Okinawa
 - home
 - bed
+- Nara
