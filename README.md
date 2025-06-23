@@ -3,4 +3,5 @@
 # List of place
 - Okinawa
 - home
+- bed
 - Nara
