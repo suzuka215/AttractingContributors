@@ -8,6 +8,6 @@ example
 - tea
 - cafe au lait
 - Water
+- hot water
 - Ginger ale
 - Apple juice
-
