@@ -5,3 +5,4 @@
 - home
 - bed
 - Nara
+- home
