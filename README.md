@@ -6,3 +6,5 @@
 - bed
 - Nara
 - home
+- Cafe
+- Yamanashi
