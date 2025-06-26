@@ -8,4 +8,5 @@
 - home
 - Cafe
 - Yamanashi
+- BII Lab
 - Lab
