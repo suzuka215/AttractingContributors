@@ -9,3 +9,4 @@
 - Cafe
 - Yamanashi
 - BII Lab
+- Lab
