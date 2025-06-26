@@ -8,3 +8,4 @@
 - home
 - Cafe
 - Yamanashi
+- Lab
