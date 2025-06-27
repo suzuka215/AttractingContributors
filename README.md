@@ -10,3 +10,4 @@
 - Yamanashi
 - BII Lab
 - Lab
+- L1 seminar room
