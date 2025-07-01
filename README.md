@@ -11,6 +11,7 @@ example
 - hot water
 - Ginger ale
 - Apple juice
+- Lemon water
 - pepsi cola
 - royal milk tea
 - white tea
