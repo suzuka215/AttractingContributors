@@ -12,6 +12,6 @@ example
 - Ginger ale
 - Apple juice
 - pepsi cola
+- royal milk tea
 - white tea
 - coffee
-
