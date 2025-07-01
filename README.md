@@ -13,3 +13,5 @@ example
 - Apple juice
 - pepsi cola
 - white tea
+- coffee
+
