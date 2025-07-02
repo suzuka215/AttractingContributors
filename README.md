@@ -2,6 +2,7 @@
 
 # List of animal
 - maltese
+- Whale
 - cat
 - horse🐴
 
