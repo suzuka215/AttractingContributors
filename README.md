@@ -16,3 +16,4 @@ example
 - royal milk tea
 - white tea
 - coffee
+- suntory coffee latte
