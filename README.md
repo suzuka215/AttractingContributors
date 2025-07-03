@@ -6,4 +6,5 @@
 - Whale
 - cat
 - horse🐴
+- rabbit🐰
 - cats!
