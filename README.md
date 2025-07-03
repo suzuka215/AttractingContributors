@@ -1,5 +1,2 @@
-# Please indicate your favourite places to eat near NAIST.
-
-# List of place
-- mamemame saisai
-- Gusto
+# What is your hobby?/趣味はなんですか？
+My hobby is listening music.
