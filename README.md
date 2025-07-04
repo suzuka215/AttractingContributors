@@ -1,6 +1,6 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your favorite  drink.
 
 # List of place
-- Saizeria
-- McDonald's
-- Baskin-Robbins Ice Cream
+- Coke
+- Ginger ale
+- Green tea
