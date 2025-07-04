@@ -1,6 +1,7 @@
 # Please indicate your favourite beverage.
 example
 - cola
+- ginger ale
 # List of place
 
 - zero cola
