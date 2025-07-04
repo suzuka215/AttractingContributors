@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+What is your favourite sports? Please write student id number and sports 
 
-# List of place
-- mamemame saisai
-- Gusto
+# Base Ball 
+- 2411337 Badminton
