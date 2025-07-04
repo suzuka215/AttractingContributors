@@ -12,6 +12,7 @@
 - おさるのジョージ
 - 新世紀エヴァンゲリオン
 - ひぐらしのなく頃に
+- Apocalypse Hotel
 - On the earth movement
 - 七つの大罪
 - 薬屋のひとりごと
