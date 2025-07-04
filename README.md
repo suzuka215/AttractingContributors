@@ -11,6 +11,6 @@ What is your favourite sports?
 - baseball
 - tenis
 - baseball
- - Soccer
+- table tennis
+- Soccer
 - Hocky
-
