@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# 好きな飲み物は何ですか？リキュールでもカクテルでも何でもいいです。　　What's your favorite drink? Liqueur or cocktail, anything is fine.
 
 # List of place
-- mamemame saisai
-- Gusto
+- 梅酒 plum wine
