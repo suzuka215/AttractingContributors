@@ -4,3 +4,4 @@
 - The Secret Life of Walter Mitty
 - Top Gun
 - Spider-man
+- The Usual Suspects
