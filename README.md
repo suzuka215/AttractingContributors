@@ -20,6 +20,7 @@ OSSへの**興味（interest）**を呼びかけるプロジェクトです！
 - 18
 - 18https://github.com/takaki719/AttractingContributors
 - 2
+- 24
 - 19 https://github.com/Shintaro-Kawasaki/AttractingContributors
 - https://github.com/ovimizan09/AttractingContributors
 -  https://github.com/ovimizan09/AttractingContributors
