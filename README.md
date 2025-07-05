@@ -27,3 +27,4 @@ OSSへの**興味（interest）**を呼びかけるプロジェクトです！
 - 15
 - 60 
 - 42 https://github.com/Eureka2718/AttractingContributors
+- 11 Discussions:https://github.com/NAIST-SE/AttractingContributors/discussions/1410#discussion-8528639 README.md:https://github.com/suzuka215/AttractingContributors
