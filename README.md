@@ -18,4 +18,5 @@ What is your favourite sports?
 - Hocky
 - Volleyball
 - soccer
+- Soccer
 - basketball
