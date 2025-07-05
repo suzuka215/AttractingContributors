@@ -21,3 +21,5 @@ OSSへの**興味（interest）**を呼びかけるプロジェクトです！
 - 18https://github.com/takaki719/AttractingContributors
 - 2
 - 15
+- 60 
+- 42 https://github.com/Eureka2718/AttractingContributors
