@@ -5,3 +5,4 @@
 - Top Gun
 - Spider-man
 - The Usual Suspects
+- Detective Conan: Black Iron Submarine
