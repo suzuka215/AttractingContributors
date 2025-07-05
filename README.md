@@ -9,4 +9,4 @@ the few but the heavy:book 2
 # List of place
 - 「西の魔女が死んだ/The Witch of the West is Dead」 (梨木香歩/Kaho Nasiki)
 - "The Long Goodbye" by Raymond Chandler
-- 「Cirque Du Freak (The Saga of Darren Shan)」by Darren Shan
+- 「Darren Shan(Darren Shan)」/「ダレン・シャン(ダレン・シャン)」
