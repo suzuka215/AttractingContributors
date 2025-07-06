@@ -11,5 +11,7 @@
 # List of place
 ### movie 
 - The Castle of Cagliostro/カリオストロの城
+- Nausicaä of the Valley of the Wind
 
 ### character
+- Yupa-sama
