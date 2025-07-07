@@ -11,6 +11,8 @@
 # List of place
 ### movie 
 - The Castle of Cagliostro/カリオストロの城
+- Nausicaä of the Valley of the Wind
 - Tonari no totoro/となりのトトロ
 
 ### character
+- Yupa-sama
