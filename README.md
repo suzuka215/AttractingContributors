@@ -13,6 +13,7 @@
 - The Castle of Cagliostro/カリオストロの城
 - Nausicaä of the Valley of the Wind
 - Tonari no totoro/となりのトトロ
+- The Wind Rises/風立ちぬ
 
 ### character
 - Yupa-sama
