@@ -1,4 +1,4 @@
-# 好きな飲み物は何ですか？お酒でもジュースでも何でもいいです。　What's your favorite drink? Liqueur or juice, anything is fine.
+# 好きなお酒は何ですか？リキュールでもカクテルでも何でもいいです(お酒を飲めない方は好きなジュースを書いてください)。　What's your favorite alcoholic drink? Liqueur, cocktails, anything is fine (if you don't drink alcohol, please write your favorite juice).
 
 # List of place
 - 梅酒 plum wine
