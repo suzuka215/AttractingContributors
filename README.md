@@ -5,3 +5,4 @@
 - Beer
 - 三ツ矢サイダー
 - Shirayuki (sake made by Konishi Shuzo)
+- 日本酒
