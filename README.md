@@ -14,7 +14,9 @@
 - Nausicaä of the Valley of the Wind
 - Tonari no totoro/となりのトトロ
 - The Wind Rises/風立ちぬ
+- Howl’s Moving Castle
 
 ### character
 - Yupa-sama
 - My Neighbor Totoro
+- Calcifer
