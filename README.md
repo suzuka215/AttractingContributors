@@ -18,3 +18,4 @@ example
 - white tea
 - coffee
 - suntory coffee latte
+- tea with milk
