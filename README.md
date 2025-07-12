@@ -17,3 +17,4 @@
 
 ### character
 - Yupa-sama
+- My Neighbor Totoro
