@@ -15,6 +15,7 @@ What is your favourite sports?
 - swimming
 - table tennis
 - Soccer
+- Badminton
 - Hocky
 - Volleyball
 - soccer
