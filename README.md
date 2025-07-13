@@ -6,6 +6,7 @@
 
 ### character
 - Spirited Away/千と千尋の神隠し
+- Spirited Away
 
 
 # List of place
@@ -15,6 +16,7 @@
 - Tonari no totoro/となりのトトロ
 - The Wind Rises/風立ちぬ
 - Howl’s Moving Castle
+
 
 ### character
 - Yupa-sama
