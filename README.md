@@ -8,3 +8,4 @@
 - horse🐴
 - rabbit🐰
 - cats!
+- monkey
