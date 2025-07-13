@@ -7,3 +7,4 @@
 - Shirayuki (sake made by Konishi Shuzo)
 - 日本酒
 - chita
+- 梅酒
