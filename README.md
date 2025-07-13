@@ -20,3 +20,4 @@
 - Yupa-sama
 - My Neighbor Totoro
 - Calcifer
+- Kaonashi
