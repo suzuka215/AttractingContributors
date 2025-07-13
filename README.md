@@ -15,6 +15,7 @@
 - Tonari no totoro/となりのトトロ
 - The Wind Rises/風立ちぬ
 - Howl’s Moving Castle
+- Spirited Away
 - Castle in the Sky
 
 ### character
