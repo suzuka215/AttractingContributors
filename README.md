@@ -15,6 +15,7 @@
 - Tonari no totoro/となりのトトロ
 - The Wind Rises/風立ちぬ
 - Howl’s Moving Castle
+- Castle in the Sky
 
 ### character
 - Yupa-sama
@@ -22,3 +23,4 @@
 - Calcifer
 - Kaonashi
 - pitch-black blackie
+  
