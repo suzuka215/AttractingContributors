@@ -17,6 +17,7 @@
 - Howl’s Moving Castle
 - Spirited Away
 - Castle in the Sky
+- Ponyo on the Cliff/崖の上のポニョ
 
 ### character
 - Yupa-sama
