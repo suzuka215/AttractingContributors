@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# What your favorite Sanrio's characters?
 
 # List of place
-- mamemame saisai
-- Gusto
+- Pom Pom Purin
