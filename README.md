@@ -18,6 +18,7 @@
 - Spirited Away
 - Castle in the Sky
 - Ponyo on the Cliff/崖の上のポニョ
+- Princess Mononoke / もののけ姫
 
 ### character
 - Yupa-sama
@@ -25,4 +26,5 @@
 - Calcifer
 - Kaonashi
 - pitch-black blackie
+- Ashitaka
   
